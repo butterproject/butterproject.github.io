@@ -1145,6 +1145,14 @@ span.code {
     text-align: center;
   }
 }
+.post-content {
+  text-align: justify;
+}
+.post-content p,
+.post-content ul,
+.post-content h2 {
+  padding: 5px 80px;
+}
 #page-faq #faq {
   padding-top: 130px;
   position: static;
