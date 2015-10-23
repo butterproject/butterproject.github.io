@@ -18,10 +18,10 @@
         "linux64": "64-bittiselle Linuxille",
         "android": "Android 4.0.3 ja uudempi",
         "platforms": "Muut alustat",
-        "free": "Kaikkein parasta - Popcorn Time on ilmainen!"
+        "free": "Kaikkein parasta - Butter on ilmainen!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time suoratoistaa elokuvia ja TV-sarjoja torrenteista",
+        "whatitdoes": "Butter suoratoistaa elokuvia ja TV-sarjoja torrenteista",
         "copyright": "Tekijänoikeuksilla suojatun materiaalin lataaminen maassasi saattaa olla kiellettyä, joten käytä ohjelmaa omalla vastuullasi."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Loistava valikoima",
-            "text": "Popcorn Time löytää elokuvan tai TV-ohjelman parhaalla laadulla ja toistaa sen sinulle heti."
+            "text": "Butter löytää elokuvan tai TV-ohjelman parhaalla laadulla ja toistaa sen sinulle heti."
         },
         "quality": {
             "title": "Paras kuvanlaatu",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Etkö usko?",
         "subtitle": "Näin helposti se toimii...",
-        "open": "Avaa Popcorn Time<br>ja valitse elokuva tai TV-sarjan jakso",
+        "open": "Avaa Butter<br>ja valitse elokuva tai TV-sarjan jakso",
         "select": "Valitse laatu<br>ja tekstitykset",
         "play": "Paina katso<br>ja nauti!"
     },
     "get-app": {
         "new": "Täysin uudenlainen tapa katso TV-ohjelmia ja elokuvia",
-        "popcorn": "Huolehdi vain popcornin valmistuksesta ja jätä loput meille."
+        "butter": "Huolehdi vain popcornin valmistuksesta ja jätä loput meille."
     },
     "email": {
         "placeholder": "Sähköpostiosoite",

@@ -21,7 +21,7 @@
         "free": "En iyisi... ücretsiz!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time film ve dizileri torrentten yayınlar",
+        "whatitdoes": "Butter film ve dizileri torrentten yayınlar",
         "copyright": "Telif hakkı bulunan materyalleri indirmek ülkenizde yasadışı olabilir. Oluşacak risklerin sorumluluğu size aittir."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Muhteşem katalog",
-            "text": "Eğer bir film ya da dizi çıktıysa Popcorn Time en kaliteli sürümünü bulacak ve hemen yayınlamaya başlayacaktır."
+            "text": "Eğer bir film ya da dizi çıktıysa Butter en kaliteli sürümünü bulacak ve hemen yayınlamaya başlayacaktır."
         },
         "quality": {
             "title": "En iyi kalite",
@@ -49,13 +49,13 @@
     "how": {
         "title": "İnanması güç?",
         "subtitle": "Ne kadar kolay olduğunu görün...",
-        "open": "Popcorn Time açın<br>ve film ya da dizi seçin",
+        "open": "Butter açın<br>ve film ya da dizi seçin",
         "select": "Kaliteyi<br>ve altyazıyı seçin",
         "play": "Oynata tıklayın<br>ve eğlenin!"
     },
     "get-app": {
         "new": "Film ve TV izlemek için tamamen yeni bir yol",
-        "popcorn": "Siz sadece Popcorn'a iyi bakın ve gerisini bize bırakın."
+        "butter": "Siz sadece Popcorn'a iyi bakın ve gerisini bize bırakın."
     },
     "email": {
         "placeholder": "E-Posta Adresi",

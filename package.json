@@ -1,17 +1,17 @@
 {
-  "name": "popcorn-site",
+  "name": "butter-site",
   "version": "0.3.8-2",
-  "description": "Website for Popcorn Time",
+  "description": "Website for Butter Project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/popcorn-official/popcorn-site.git"
+    "url": "https://github.com/butterproject/butter-site.git"
   },
-  "author": "Popcorn Official",
+  "author": "Butter Project",
   "license": "GPL-3",
   "bugs": {
-    "url": "https://github.com/popcorn-official/popcorn-site/issues"
+    "url": "https://github.com/butterproject/butter-site/issues"
   },
-  "homepage": "https://github.com/popcorn-official/popcorn-site",
+  "homepage": "https://github.com/butterproject/butter-site",
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-clean": "^0.6.0",

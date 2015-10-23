@@ -21,7 +21,7 @@
         "free": "Lo mejor de todo... ¡es gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time reproduce películas y series de televisión desde archivos torrent",
+        "whatitdoes": "Butter reproduce películas y series de televisión desde archivos torrent",
         "copyright": "Descargar material protegido con derechos de autor puede ser ilegal en tu país. Úsalo bajo tu propia responsabilidad."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Catálogo impresionante",
-            "text": "Si existe una película o serie, Popcorn Time encontrará la mejor versión posible y la reproducirá  de inmediato."
+            "text": "Si existe una película o serie, Butter encontrará la mejor versión posible y la reproducirá  de inmediato."
         },
         "quality": {
             "title": "La mejor calidad",
@@ -49,13 +49,13 @@
     "how": {
         "title": "¿Difícil de creer?",
         "subtitle": "Mira qué fácil funciona...",
-        "open": "Abre Popcorn Time<br>y selecciona una película o una serie",
+        "open": "Abre Butter<br>y selecciona una película o una serie",
         "select": "Selecciona la calidad<br>y los subtítulos",
         "play": "Haz clic en reproducir<br>¡y a disfrutar!"
     },
     "get-app": {
         "new": "Una nueva forma de ver películas y series de televisión",
-        "popcorn": "Preocúpate sólo de las palomitas de maíz y déjanos el resto a nosotros."
+        "butter": "Preocúpate sólo de las palomitas de maíz y déjanos el resto a nosotros."
     },
     "email": {
         "placeholder": "Dirección de correo electrónico",

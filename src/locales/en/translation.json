@@ -21,7 +21,7 @@
         "free": "Best of all... it's free!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streams movies and TV shows from torrents",
+        "whatitdoes": "Butter streams movies and TV shows from torrents",
         "copyright": "Downloading copyrighted material may be illegal in your country. Use at your own risk."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Awesome catalogue",
-            "text": "If the movie or TV show is out there, Popcorn Time will find the best version possible and start streaming it right away."
+            "text": "If the movie or TV show is out there, Butter will find the best version possible and start streaming it right away."
         },
         "quality": {
             "title": "The best quality",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Hard to believe?",
         "subtitle": "See how easy it works...",
-        "open": "Open Popcorn Time<br>and select a movie or episode",
+        "open": "Open Butter<br>and select a movie or episode",
         "select": "Select quality<br>and subtitles",
         "play": "Click play<br>and enjoy!"
     },
     "get-app": {
 	  	"new": "A whole new way to watch movies and TV",
-	  	"popcorn": "Just take care of the popcorn and leave the rest to us."  
+	  	"butter": "Just take care of the popcorn and leave the rest to us."  
     },
     "email": {
         "placeholder": "Email Address",

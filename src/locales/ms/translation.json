@@ -21,7 +21,7 @@
         "free": "Yang terbaik.... ianya percuma!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time menstrim cereka dan rancangan TV dari torrent",
+        "whatitdoes": "Butter menstrim cereka dan rancangan TV dari torrent",
         "copyright": "Memuat turun bahan berhakcipta mungkin tidak dibenarkan dalam negara anda. Guna atas risiko sendiri."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Katalog yang menakjubkan",
-            "text": "Jika ada cereka atau rancangan TV, Popcorn Time akan mencari versi terbaiknya dan mulakan penstriman sekarang jua."
+            "text": "Jika ada cereka atau rancangan TV, Butter akan mencari versi terbaiknya dan mulakan penstriman sekarang jua."
         },
         "quality": {
             "title": "Kualiti terbaik",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Sukar percaya?",
         "subtitle": "Lihat bagaimana ia dikendalikan dengan mudah...",
-        "open": "Buka Popcorn Time<br>dan pilih satu cereka atau episod",
+        "open": "Buka Butter<br>dan pilih satu cereka atau episod",
         "select": "Pilih kualiti<br>dan sarikata",
         "play": "Klik main<br>dan nikmatilah!"
     },
     "get-app": {
         "new": "Cara terbaharu menonton cereka dan TV",
-        "popcorn": "Hanya uruskan bertih jagung dan biarkan kami uruskan yang lain."
+        "butter": "Hanya uruskan bertih jagung dan biarkan kami uruskan yang lain."
     },
     "email": {
         "placeholder": "Alamat Emel",

@@ -1,4 +1,4 @@
-var popcorn = {
+var butter = {
     initialize: function() {
         this.polyfill();
         i18n.init({fallbackLng: 'en'}, function() {
@@ -35,9 +35,9 @@ var popcorn = {
         }
     },
     getAndroidVersion: function () {
-        $.get('https://ci.popcorntime.io/android/mobile/release', function(resp) {
+        $.get('https://ci.butterproject.org/android/mobile/release', function(resp) {
             var version = resp.mobile.release["armeabi-v7a"].versionName;
-            var newUrl = 'https://get.popcorntime.io/android/' + version + '/mobile-armeabi-v7a-release-' + version + '.apk';
+            var newUrl = 'https://get.butterproject.org/android/' + version + '/mobile-armeabi-v7a-release-' + version + '.apk';
             if(version.indexOf("0") == 0) {
                 version = version.substring(2, version.length);
             }
@@ -188,11 +188,11 @@ var popcorn = {
     }
 };
 
-popcorn.initialize();
-popcorn.getAndroidVersion();
-popcorn.updateDownloads(navigator.platform, navigator.userAgent);
-popcorn.updateStatus('#status', 'https://popcorntime.statuspage.io/api/v1/status.json');
-popcorn.smoothScroll();
+butter.initialize();
+butter.getAndroidVersion();
+butter.updateDownloads(navigator.platform, navigator.userAgent);
+butter.updateStatus('#status', 'https://butterproject.statuspage.io/api/v1/status.json');
+butter.smoothScroll();
 if((mnth = new Date().getMonth()) === 11 || mnth === 0) {
-    popcorn.snow();
+    butter.snow();
 }

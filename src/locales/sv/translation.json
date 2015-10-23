@@ -21,7 +21,7 @@
         "free": "Bäst av allt... det är gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time strömmar filmer och serier från torrents",
+        "whatitdoes": "Butter strömmar filmer och serier från torrents",
         "copyright": "Nedladdning av upphovsrättsskyddat material kan vara olagligt i ditt land. Använd på egen risk."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Toppen katalog",
-            "text": "Om filmen eller serie är ute, kommer Popcorn Time hitta den bästa versionen möjligt och börja strömma det genast."
+            "text": "Om filmen eller serie är ute, kommer Butter hitta den bästa versionen möjligt och börja strömma det genast."
         },
         "quality": {
             "title": "Den bästa kvalitén ",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Svårt att tro?",
         "subtitle": "Se hur lätt det fungerar...",
-        "open": "Öppna Popcorn Time<br>och välj en film eller serier",
+        "open": "Öppna Butter<br>och välj en film eller serier",
         "select": "Välj kvalite<br>och textning",
         "play": "Klicka på play<br>och njut!"
     },
     "get-app": {
         "new": "Ett helt nytt sätt att se på filmer och serier",
-        "popcorn": "Du behöver bara ordna popcorn, vi fixar resten."
+        "butter": "Du behöver bara ordna popcorn, vi fixar resten."
     },
     "email": {
         "placeholder": "E-postadress",

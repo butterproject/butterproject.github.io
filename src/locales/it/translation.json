@@ -21,7 +21,7 @@
         "free": "E la cosa migliore... è gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time permette lo streaming di film e programmi TV direttamente da file torrent",
+        "whatitdoes": "Butter permette lo streaming di film e programmi TV direttamente da file torrent",
         "copyright": "Scaricare materiale coperto da copyright potrebbe essere illegale nel tuo Stato. Utilizzalo a tuo rischio."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Grandissimo catalogo",
-            "text": "Se il film o il programma TV esiste sul web, Popcorn Time ne troverà la versione migliore e farà subito partire lo streaming."
+            "text": "Se il film o il programma TV esiste sul web, Butter ne troverà la versione migliore e farà subito partire lo streaming."
         },
         "quality": {
             "title": "La migliore qualità",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Impossibile crederci?",
         "subtitle": "Guarda come funziona facilmente...",
-        "open": "Apri Popcorn Time<br>e seleziona un film o un episodio",
+        "open": "Apri Butter<br>e seleziona un film o un episodio",
         "select": "Seleziona la qualità<br> e i sottotitoli",
         "play": "Premi Play<br>\ne divertiti!"
     },
     "get-app": {
         "new": "Un modo tutto nuovo di guardare Film e TV",
-        "popcorn": "Occupatevi solo dei popcorn e lasciate il resto a noi"
+        "butter": "Occupatevi solo dei popcorn e lasciate il resto a noi"
     },
     "email": {
         "placeholder": "Indirizzo email",

@@ -21,7 +21,7 @@
         "free": "최고는...무료라는 것!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time은 토렌트로부터 영화와 TV 쇼를 스트리밍합니다.",
+        "whatitdoes": "Butter은 토렌트로부터 영화와 TV 쇼를 스트리밍합니다.",
         "copyright": "저작권있는 영상을 다운 받는 것은 불법일 수 있습니다. 책임은 본인이 져야합니다."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "매력적인 카달로크",
-            "text": "영화나 TV 쇼가 없다면, Popcorn Time은 최상의 버전을 찾고 곧바로 스트리밍을 시작합니다."
+            "text": "영화나 TV 쇼가 없다면, Butter은 최상의 버전을 찾고 곧바로 스트리밍을 시작합니다."
         },
         "quality": {
             "title": "최고의 품질",
@@ -49,13 +49,13 @@
     "how": {
         "title": "믿기 어렵나요?",
         "subtitle": "얼마나 쉽게 되는지 보세요...",
-        "open": "Popcorn Time을 열고<br>영화나 에피소드를 선택하세요",
+        "open": "Butter을 열고<br>영화나 에피소드를 선택하세요",
         "select": "품질과 자막을<br>선택하세요",
         "play": "재생을 누르고<br>즐기세요!"
     },
     "get-app": {
         "new": "영화와 TV를 보는 완전히 새로운 방법",
-        "popcorn": "팝콘만 신경쓰시고 나머지는 우리한테 맡기세요,"
+        "butter": "팝콘만 신경쓰시고 나머지는 우리한테 맡기세요,"
     },
     "email": {
         "placeholder": "이메일 주소",

@@ -21,7 +21,7 @@
         "free": "I el millor de tot... és gratuït!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time transmet pel·lícules i sèries des de fitxers torrent",
+        "whatitdoes": "Butter transmet pel·lícules i sèries des de fitxers torrent",
         "copyright": "La baixada de continguts protegits amb drets d'autor pot ser il·legal al vostre país. Useu-la sota risc propi."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Un catàleg espectacular",
-            "text": "Si la pel·lícula o sèrie existeix, Popcorn Time trobarà la millor versió possible i la reproduirà immediatament."
+            "text": "Si la pel·lícula o sèrie existeix, Butter trobarà la millor versió possible i la reproduirà immediatament."
         },
         "quality": {
             "title": "La millor qualitat",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Difícil de creure?",
         "subtitle": "Mireu com n'és de fàcil...",
-        "open": "Obriu Popcorn Time<br>i trieu una pel·lícula o episodi",
+        "open": "Obriu Butter<br>i trieu una pel·lícula o episodi",
         "select": "Trieu la qualitat<br>i els subtítols",
         "play": "Feu clic al play<br>i gaudiu!"
     },
     "get-app": {
         "new": "Una nova manera de veure pel·lícules i televisió",
-        "popcorn": "Ocupeu-vos només de les crispetes i deixeu-nos la resta a nosaltres."
+        "butter": "Ocupeu-vos només de les crispetes i deixeu-nos la resta a nosaltres."
     },
     "email": {
         "placeholder": "Adreça electrònica",

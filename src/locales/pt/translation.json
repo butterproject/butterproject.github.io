@@ -21,7 +21,7 @@
         "free": "Melhor de tudo... é grátis!"
     },
     "warning": {
-        "whatitdoes": "O Popcorn Time reproduz filmes e séries a partir de torrents",
+        "whatitdoes": "O Butter reproduz filmes e séries a partir de torrents",
         "copyright": "Descarregar material protegido por direitos de autor pode ser ilegal no teu país. Usa por tua conta e risco."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Catálogo espetacular",
-            "text": "Se o filme ou série existir algures, o Popcorn Time irá encontrar a melhor versão possível e começará a reproduzir imediatamente."
+            "text": "Se o filme ou série existir algures, o Butter irá encontrar a melhor versão possível e começará a reproduzir imediatamente."
         },
         "quality": {
             "title": "A melhor qualidade",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Difícil de acreditar?",
         "subtitle": "Vê como é fácil de usar...",
-        "open": "Abre o Popcorn Time<br>e escolhe um filme ou episódio",
+        "open": "Abre o Butter<br>e escolhe um filme ou episódio",
         "select": "Escolhe a qualidade<br>e as legendas",
         "play": "Clica em ver<br>e disfruta!"
     },
     "get-app": {
         "new": "Um forma revolucionária de ver filmes e séries",
-        "popcorn": "Preocupa-te apenas com as pipocas e deixa o resto connosco."
+        "butter": "Preocupa-te apenas com as pipocas e deixa o resto connosco."
     },
     "email": {
         "placeholder": "Endereço de e-mail",

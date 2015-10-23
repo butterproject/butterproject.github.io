@@ -21,7 +21,7 @@
         "free": "最重要的是...完全免费！"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time 通过种子文件传输影片和电视剧",
+        "whatitdoes": "Butter 通过种子文件传输影片和电视剧",
         "copyright": "下载受版权保护的内容在您的地区可能是非法的。使用请自行承担风险。"
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "目录简洁美观",
-            "text": "只要电影和电视剧片源一出，Popcorn Time 便会挑出最优版本并立刻提供观影。"
+            "text": "只要电影和电视剧片源一出，Butter 便会挑出最优版本并立刻提供观影。"
         },
         "quality": {
             "title": "画质有保证",
@@ -49,13 +49,13 @@
     "how": {
         "title": "难以置信？",
         "subtitle": "了解它有多易用...",
-        "open": "打开 Popcorn Time<br>挑选电影或电视剧",
+        "open": "打开 Butter<br>挑选电影或电视剧",
         "select": "自选影片质量<br>和字幕语言",
         "play": "点击播放<br>尽情享受！"
     },
     "get-app": {
         "new": "观看电影和电视剧的全新方式",
-        "popcorn": "你负责消灭爆米花，其余的交给我们搞定。"
+        "butter": "你负责消灭爆米花，其余的交给我们搞定。"
     },
     "email": {
         "placeholder": "电子邮件地址",

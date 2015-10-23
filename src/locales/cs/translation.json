@@ -21,7 +21,7 @@
         "free": "A nejlepší ze všeho... Je to zadarmo!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time přehrává filmy a TV pořady přímo z torrentů",
+        "whatitdoes": "Butter přehrává filmy a TV pořady přímo z torrentů",
         "copyright": "Stahování autorsky chráněných děl může být ve vaší zemi nezakonné. Používáte na vlastní nebezpečí."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Úžasný katalog",
-            "text": "Pokud je film nebo TV pořad k dispozici, Popcorn Time najde jeho nejlepší možnou verzi a může ji začít přehrávat."
+            "text": "Pokud je film nebo TV pořad k dispozici, Butter najde jeho nejlepší možnou verzi a může ji začít přehrávat."
         },
         "quality": {
             "title": "Nejlepší kvalita",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Je těžké tomu uvěřit?",
         "subtitle": "Zjistěte jak jednoduše to funguje...",
-        "open": "Otevřete Popcorn Time<br>a zvolte film nebo díl TV pořadu",
+        "open": "Otevřete Butter<br>a zvolte film nebo díl TV pořadu",
         "select": "Vyberte kvalitu<br>a titulky",
         "play": "Klikněte na přehrát<br>a užívejte si!"
     },
     "get-app": {
         "new": "Úplně nový způsob jak sledovat filmy a TV pořady.",
-        "popcorn": "Starejte se pouze o popcorn a zbytek nechte na nás."
+        "butter": "Starejte se pouze o popcorn a zbytek nechte na nás."
     },
     "email": {
         "placeholder": "Emailová adresa",

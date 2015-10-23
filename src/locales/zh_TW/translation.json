@@ -21,7 +21,7 @@
         "free": "最重要的是...它是免費的！"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time 從Torrents 串流電影和電視節目",
+        "whatitdoes": "Butter 從Torrents 串流電影和電視節目",
         "copyright": "下載受版權保護的材料在您的國家可能是是非法的。使用時需要您自己承擔風險。"
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "一流的目錄",
-            "text": "如果電影或電視節目就在那裡，Popcorn Time 會找到最好的版本並開始串流。"
+            "text": "如果電影或電視節目就在那裡，Butter 會找到最好的版本並開始串流。"
         },
         "quality": {
             "title": "質量最好的",
@@ -49,13 +49,13 @@
     "how": {
         "title": "難以置信？",
         "subtitle": "看看它如何簡易地操作。。。",
-        "open": "開啟Popcorn Time<br>選擇一個電影或集數",
+        "open": "開啟Butter<br>選擇一個電影或集數",
         "select": "選擇質素<br>和字幕",
         "play": "按播放<br/>然後享受！"
     },
     "get-app": {
         "new": "一種觀看電影和電視的全新方式",
-        "popcorn": "準備爆米花，其餘留給我們。"
+        "butter": "準備爆米花，其餘留給我們。"
     },
     "email": {
         "placeholder": "電郵地址",

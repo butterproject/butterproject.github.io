@@ -21,7 +21,7 @@
         "free": "O melhor de tudo ... é grátis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time transmite filmes e programas de TV de torrents",
+        "whatitdoes": "Butter transmite filmes e programas de TV de torrents",
         "copyright": "Download de material protegido por direitos autorais pode ser ilegal em seu país. Use por sua conta e risco."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Catálogo incrível",
-            "text": "Se o filme ou programa de TV está por aí, Popcorn Time vai encontrar a melhor versão possível e iniciar a transmissão imediatamente."
+            "text": "Se o filme ou programa de TV está por aí, Butter vai encontrar a melhor versão possível e iniciar a transmissão imediatamente."
         },
         "quality": {
             "title": "A melhor qualidade",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Difícil de acreditar?",
         "subtitle": "Veja como é fácil...",
-        "open": "Abra Popcorn Time<br>e selecione um filme ou episódio",
+        "open": "Abra Butter<br>e selecione um filme ou episódio",
         "select": "Selecione a qualidade<br>e legendas",
         "play": "Aperte play<br>e divirta-se!"
     },
     "get-app": {
         "new": "Uma maneira totalmente nova de assistir filmes e TV",
-        "popcorn": "Apenas tome conta da pipoca e deixe o resto com a gente."
+        "butter": "Apenas tome conta da pipoca e deixe o resto com a gente."
     },
     "email": {
         "placeholder": "Endereço de email",

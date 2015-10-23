@@ -21,7 +21,7 @@
         "free": "Og det bedste af det hele.... det er gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streamer film og tv-serier fra torrents",
+        "whatitdoes": "Butter streamer film og tv-serier fra torrents",
         "copyright": "Hentning og deling af filer der er copyright beskyttede, kan være ulovligt i dit land. Brug af programmet er på eget ansvar."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Fantastisk udvalg",
-            "text": "Hvis tv-serien eller filmen findes, vil Popcorn Time finde den bedste udgave og starte med at afspille den med det samme."
+            "text": "Hvis tv-serien eller filmen findes, vil Butter finde den bedste udgave og starte med at afspille den med det samme."
         },
         "quality": {
             "title": "Den bedste kvalitet",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Har du svært ved at tro på det?",
         "subtitle": "Se hvor nemt det er...",
-        "open": "Åbn Popcorn Time<br>og vælg en film eller en episode",
+        "open": "Åbn Butter<br>og vælg en film eller en episode",
         "select": "Vælg kvalitet<br>og undertekster",
         "play": "Klik afspil<br>og nyd det!"
     },
     "get-app": {
         "new": "En helt ny måde at se film og tv på",
-        "popcorn": "Sørg for popkornene og overlad resten til os."
+        "butter": "Sørg for popkornene og overlad resten til os."
     },
     "email": {
         "placeholder": "E-mailadresse",

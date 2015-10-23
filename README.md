@@ -1,4 +1,4 @@
-Popcorn Time Website
+Butter Project Website
 ======================
 
 ### Setup for production

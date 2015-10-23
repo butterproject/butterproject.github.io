@@ -21,7 +21,7 @@
         "free": "A to najlepšie... je to zadarmo!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streamuje filmy a seriály z torrentov",
+        "whatitdoes": "Butter streamuje filmy a seriály z torrentov",
         "copyright": "Sťahovanie materiálu chráneného autorskými právami, môže byť vo vašej krajine nezákonné. Používajte na vlastné nebezpečenstvo."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Úžasný katalóg",
-            "text": "Ak je film alebo televízny program niekde na internete, Popcorn Time nájde najlepšiu možnú verziu a začne ju ihneď streamovať."
+            "text": "Ak je film alebo televízny program niekde na internete, Butter nájde najlepšiu možnú verziu a začne ju ihneď streamovať."
         },
         "quality": {
             "title": "Najlepšia kvalita",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Ťažko uveriteľné?",
         "subtitle": "Pozrite sa, ako jednoducho to funguje...",
-        "open": "Otvorte Popcorn Time<br>a vyberte film alebo epizódu",
+        "open": "Otvorte Butter<br>a vyberte film alebo epizódu",
         "select": "Vyberte kvalitu<br>a titulky",
         "play": "Kliknite na tlačidlo prehrať<br>a užívajte si!"
     },
     "get-app": {
         "new": "Celkom nový spôsob sledovania filmov a seriálov",
-        "popcorn": "Vy sa postarajte o popcorn a my sa postarané o všetko ostatné."
+        "butter": "Vy sa postarajte o popcorn a my sa postarané o všetko ostatné."
     },
     "email": {
         "placeholder": "Emailová adresa",

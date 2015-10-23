@@ -21,7 +21,7 @@
         "free": "Yang paling utama... gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time menstream film dan tv seri dari torrents",
+        "whatitdoes": "Butter menstream film dan tv seri dari torrents",
         "copyright": "Mengunduh material ber-hak cipta mungkin ilegal di negaramu. Gunakan dengan resiko sendiri."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Katalog yang keren",
-            "text": "Jika film atau TV seri sudah ada, Popcorn Time akan mencari versi terbaik yang ada dan anda bisa segera menstreamingnya.."
+            "text": "Jika film atau TV seri sudah ada, Butter akan mencari versi terbaik yang ada dan anda bisa segera menstreamingnya.."
         },
         "quality": {
             "title": "Kualitas terbaik",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Susah dipercaya?",
         "subtitle": "Lihat betapa mudahnya pengoperasiannya...",
-        "open": "Buka Popcorn Time<br>dan pilih film atau episode",
+        "open": "Buka Butter<br>dan pilih film atau episode",
         "select": "Pilih kualitas<br>dan terjemahannya",
         "play": "Klik mulai<br>dan nikmati!"
     },
     "get-app": {
         "new": "Cara baru untuk menonton film dan tv seri",
-        "popcorn": "Cukup urus popcorn dan tinggalkan yang lainnya bagi kami."
+        "butter": "Cukup urus popcorn dan tinggalkan yang lainnya bagi kami."
     },
     "email": {
         "placeholder": "Alamat Email",

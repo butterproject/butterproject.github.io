@@ -21,7 +21,7 @@
         "free": "Das Beste kommt erst... Es ist alles gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streamt Filme und Fernsehserien von Torrents",
+        "whatitdoes": "Butter streamt Filme und Fernsehserien von Torrents",
         "copyright": "Das Herunterladen von urheberrechtlich geschütztem Material kann in Ihrem Land verboten sein. Benutzung auf eigene Gefahr."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Großartiger Katalog",
-            "text": "Sobald ein Film oder eine Fernsehsendung veröffentlicht wird, wird Popcorn Time die bestmögliche Version finden und sofort verfügbar stellen."
+            "text": "Sobald ein Film oder eine Fernsehsendung veröffentlicht wird, wird Butter die bestmögliche Version finden und sofort verfügbar stellen."
         },
         "quality": {
             "title": "Die beste Qualität",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Schwer zu glauben?",
         "subtitle": "Sieh selbst wie einfach es funktioniert..",
-        "open": "Öffnen Sie Popcorn Time<br>und wählen Sie einen Film oder eine Folge aus",
+        "open": "Öffnen Sie Butter<br>und wählen Sie einen Film oder eine Folge aus",
         "select": "Wählen Sie die<br>Qualität und<br>Untertitel aus",
         "play": "Klicke auf abspielen<br> und geniesse!"
     },
     "get-app": {
         "new": "Ein total neue Art Filme und Fernseh zu schauen",
-        "popcorn": "Wenn du dich um das Popcorn kümmerst, machen wir den Rest."
+        "butter": "Wenn du dich um das Popcorn kümmerst, machen wir den Rest."
     },
     "email": {
         "placeholder": "E-Mail-Adresse",

@@ -21,7 +21,7 @@
         "free": "Dhe më e mira...është pa para!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time ju tregon filmat dhe serialet nga torrente",
+        "whatitdoes": "Butter ju tregon filmat dhe serialet nga torrente",
         "copyright": "Shkarkimi i materialeve të mbrojtura me të drejta të autorit mund të jetë e paligjshme në shtetin tuaj. Përdoreni me përgjegjësinë tuaj."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Katalog i mrekullueshëm",
-            "text": "Nëse filmi apo seriali është diku, Popcorn Time do ta gjej verzionin më të mire dhe t'ua tregoj menjëherë. "
+            "text": "Nëse filmi apo seriali është diku, Butter do ta gjej verzionin më të mire dhe t'ua tregoj menjëherë. "
         },
         "quality": {
             "title": "Cilësia më e mirë",
@@ -49,13 +49,13 @@
     "how": {
         "title": "E vështirë për tu besuar?",
         "subtitle": "E shihni sa lehtë punon...",
-        "open": "Hapni Popcorn Time<br>dhe zgjidhni një film apo epizodë",
+        "open": "Hapni Butter<br>dhe zgjidhni një film apo epizodë",
         "select": "Zgjidhni kualitetin<br>dhe titrat",
         "play": "Klikoni play<br>dhe kënaquni!"
     },
     "get-app": {
         "new": "Një mënyrë krejtësisht e re e shikimit të filmave dhe serialeve",
-        "popcorn": "Vetëm kujdesuni për popcorn dhe të tjerat na i lini neve."
+        "butter": "Vetëm kujdesuni për popcorn dhe të tjerat na i lini neve."
     },
     "email": {
         "placeholder": "Adresa e emailit",

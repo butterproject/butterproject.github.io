@@ -21,7 +21,7 @@
         "free": "Ja mis kõige parem... see on tasuta!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time esitab filme ja TV seriaale läbi torrentite",
+        "whatitdoes": "Butter esitab filme ja TV seriaale läbi torrentite",
         "copyright": "Autoriõigustega materjalide allalaadimine võib olla sinu riigis illegaalne. Kasuta omal vastutusel."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Muljetavaldav kataloog",
-            "text": "Kui film või TV seriaal on juba väljas, siis Popcorn Time leiab sellest parima võimaliku versiooni ja esitab selle koheselt."
+            "text": "Kui film või TV seriaal on juba väljas, siis Butter leiab sellest parima võimaliku versiooni ja esitab selle koheselt."
         },
         "quality": {
             "title": "Parim kvaliteet",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Raske uskuda?",
         "subtitle": "Vaata kui lihtsalt see toimib...",
-        "open": "Ava Popcorn Time<br>ja vali film või episood",
+        "open": "Ava Butter<br>ja vali film või episood",
         "select": "Vali kvaliteet<br>ja subtiitrid",
         "play": "Vajuta mängi<br>ja naudi!"
     },
     "get-app": {
         "new": "Täiesti uus viis filmide ja TV vaatamiseks",
-        "popcorn": "Lihtsalt kanna hoolt, et popcorn oleks olemas ja jäta ülejäänu meie teha."
+        "butter": "Lihtsalt kanna hoolt, et popcorn oleks olemas ja jäta ülejäänu meie teha."
     },
     "email": {
         "placeholder": "Emaili aaddress",

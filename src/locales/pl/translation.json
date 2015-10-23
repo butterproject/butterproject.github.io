@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Niesamowity katalog",
-            "text": "Jeśli film lub serial jest już dostępny, Popcorn Time znajdzie najlepszą z możliwych wersji i zacznie ją streamować dla Ciebie."
+            "text": "Jeśli film lub serial jest już dostępny, Butter znajdzie najlepszą z możliwych wersji i zacznie ją streamować dla Ciebie."
         },
         "quality": {
             "title": "Najlepsza jakość",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Ciężko w to uwierzyć?",
         "subtitle": "Spójrz jak prosto to działa...",
-        "open": "Otwórz Popcorn Time<br>i wybierz film lub serial",
+        "open": "Otwórz Butter<br>i wybierz film lub serial",
         "select": "Wybierz jakość<br>i napisy",
         "play": "Kliknij Oglądaj<br>i ciesz się oglądaniem!"
     },
     "get-app": {
         "new": "Zupełnie nowy sposób na oglądanie filmów i seriali",
-        "popcorn": "Wystarczy zadbać o popcorn, a resztę zostaw dla nas."
+        "butter": "Wystarczy zadbać o popcorn, a resztę zostaw dla nas."
     },
     "email": {
         "placeholder": "Adres email",

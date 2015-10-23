@@ -21,7 +21,7 @@
         "free": "Najbolje od svega... besplatno je!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streama filmove i TV serije s torrenta",
+        "whatitdoes": "Butter streama filmove i TV serije s torrenta",
         "copyright": "Preuzimanje sadržaja zaštićenog autorskim pravom je možda ilegalno u vašoj zemlji. Koristite na vlastitu odgovornost."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Odlična videoteka",
-            "text": "Ako je film ili TV serija objavljena, Popcorn Time će pronaći najbolju inačicu i odmah pokrenuti reprodukciju."
+            "text": "Ako je film ili TV serija objavljena, Butter će pronaći najbolju inačicu i odmah pokrenuti reprodukciju."
         },
         "quality": {
             "title": "Najbolja kvaliteta",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Teško vam je za povjerovati?",
         "subtitle": "Pogledajte kako je jednostavno za korštenje...",
-        "open": "Otvorite Popcorn Time<br>i odaberite film ili epizodu",
+        "open": "Otvorite Butter<br>i odaberite film ili epizodu",
         "select": "Odaberite kvalitetu<br> i podnaslove",
         "play": "Pokrenite reprodukciju <br> i uživajte!"
     },
     "get-app": {
         "new": "Potpuno novi način gledanja filmova i TV serija",
-        "popcorn": "Vi se pobrinite za kokice, a ostalo prepustite nama."
+        "butter": "Vi se pobrinite za kokice, a ostalo prepustite nama."
     },
     "email": {
         "placeholder": "Adresa e-pošte",

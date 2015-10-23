@@ -21,7 +21,7 @@
         "free": "Ir svarbiausia... tai nemokama!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time transliuoja filmus ir TV laidas naudojant torentus",
+        "whatitdoes": "Butter transliuoja filmus ir TV laidas naudojant torentus",
         "copyright": "Siųstis autorinių teisių saugomą medžiagą gali būti nelegalu jūsų šalyje. Naudokite savo pačių rizika."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Nuostabus katalogas",
-            "text": "Jei filmas ar TV laida jau išleisti, Popcorn Time suras geriausią įmanomą versiją ir pradės transliaciją nedelsiant."
+            "text": "Jei filmas ar TV laida jau išleisti, Butter suras geriausią įmanomą versiją ir pradės transliaciją nedelsiant."
         },
         "quality": {
             "title": "Geriausia kokybė",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Sunku patikėti?",
         "subtitle": "Pažiūrėkite kaip paprastai tai veikia...",
-        "open": "Atidarykite Popcorn Time<br>ir pasirinkite filmą ar epizodą",
+        "open": "Atidarykite Butter<br>ir pasirinkite filmą ar epizodą",
         "select": "Pasirinkite kokybę<br>ir subtitrus",
         "play": "Paspauskite atkurti<br>ir mėgaukitės!"
     },
     "get-app": {
         "new": "Visiškai naujas būdas žiūrėti filmus ir TV",
-        "popcorn": "Tiesiog pasirūpinkite spragėsiais, o visa kita palikite mums."
+        "butter": "Tiesiog pasirūpinkite spragėsiais, o visa kita palikite mums."
     },
     "email": {
         "placeholder": "El. pašto adresas",

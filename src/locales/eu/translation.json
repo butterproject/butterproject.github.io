@@ -21,7 +21,7 @@
         "free": "Eta onena... dohainik da!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Timek film eta telesailak emititzen ditu torrent bitartez",
+        "whatitdoes": "Butterk film eta telesailak emititzen ditu torrent bitartez",
         "copyright": "Copyright-dun materiala deskargatzea ilegala izan daiteke zure herrialdean. Erabili zure ardurapean."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Katalogo aparta",
-            "text": "Filma edo telesaila hor nonbait bada, Popcorn Timek posible duen bertsiorik onena aurkitu eta berehala emititzen hasiko da."
+            "text": "Filma edo telesaila hor nonbait bada, Butterk posible duen bertsiorik onena aurkitu eta berehala emititzen hasiko da."
         },
         "quality": {
             "title": "Kalitate hoberena",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Sinesgaitza?",
         "subtitle": "Ikusi zeinen erraz dabilen...",
-        "open": "Ireki Popcorn Time<br>eta aukeratu film edo atalen bat",
+        "open": "Ireki Butter<br>eta aukeratu film edo atalen bat",
         "select": "Aukeratu kalitatea<br>eta azpitituluak",
         "play": "Erreproduzitu klikatu<br>eta gozatu!"
     },
     "get-app": {
         "new": "Film eta TB ikusteko modu guztiz berritzailea",
-        "popcorn": "Arduratu krispetez eta utzi gainerakoa gure esku."
+        "butter": "Arduratu krispetez eta utzi gainerakoa gure esku."
     },
     "email": {
         "placeholder": "Eposta helbidea",

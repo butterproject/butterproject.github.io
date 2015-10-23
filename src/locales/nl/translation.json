@@ -21,7 +21,7 @@
         "free": "En het beste van alles... Het is helemaal gratis!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time streamt films en series via torrents",
+        "whatitdoes": "Butter streamt films en series via torrents",
         "copyright": "Het downloaden van auteursrechtelijk beschermd materiaal is mogelijk illegaal in jouw land. Gebruik op eigen risico!"
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Geweldige collectie",
-            "text": "Als wij de film of serie die je zoekt kunnen vinden, zorgt Popcorn Time ervoor dat je direct de beste versie kunt bekijken."
+            "text": "Als wij de film of serie die je zoekt kunnen vinden, zorgt Butter ervoor dat je direct de beste versie kunt bekijken."
         },
         "quality": {
             "title": "De hoogste kwaliteit",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Moeilijk te geloven?",
         "subtitle": "Kijk eens hoe gemakkelijk het is...",
-        "open": "Open Popcorn Time<br>en kies een film of aflevering",
+        "open": "Open Butter<br>en kies een film of aflevering",
         "select": "Selecteer de kwaliteit<br>en ondertiteling",
         "play": "Klik op 'afspelen'<br>en geniet!"
     },
     "get-app": {
         "new": "Een hele nieuwe manier om films en series te kijken",
-        "popcorn": "Jij maakt de popcorn, wij doen de rest."
+        "butter": "Jij maakt de popcorn, wij doen de rest."
     },
     "email": {
         "placeholder": "E-mailadres",

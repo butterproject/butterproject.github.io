@@ -21,7 +21,7 @@
         "free": "E o mellor de todo... é de balde!"
     },
     "warning": {
-        "whatitdoes": "Popcorn Time reproduce filmes e series de TV dende torrents",
+        "whatitdoes": "Butter reproduce filmes e series de TV dende torrents",
         "copyright": "Seica o descargar material con copyright pode ser ilegal no teu país. Úsao baixo a túa responsabilidade."
     },
     "features": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Catálogo abraiante",
-            "text": "Se existe un filme ou serie de TV, Popcorn Time atopará a melllor versión e reproduciraa de inmediato."
+            "text": "Se existe un filme ou serie de TV, Butter atopará a melllor versión e reproduciraa de inmediato."
         },
         "quality": {
             "title": "A mellor calidade",
@@ -49,13 +49,13 @@
     "how": {
         "title": "Non cho cres?",
         "subtitle": "Mira o doado que é utilizalo...",
-        "open": "Abre o Popcorn Time<br>e selecciona un filme ou capítulo",
+        "open": "Abre o Butter<br>e selecciona un filme ou capítulo",
         "select": "Selecciona a calidade<br>e os subtítulos",
         "play": "Clica en reproducir<br>e goza!"
     },
     "get-app": {
         "new": "Unha nova forma de ver filmes e a TV",
-        "popcorn": "Preocupate só dos flocos de millo e déixanos o resto a nós."
+        "butter": "Preocupate só dos flocos de millo e déixanos o resto a nós."
     },
     "email": {
         "placeholder": "Enderezo de correo",

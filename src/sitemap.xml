@@ -5,37 +5,37 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://popcorntime.io/</loc>
+  <loc>https://butterproject.github.com/butter/</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://blog.popcorntime.io/</loc>
+  <loc>https://butterproject.github.com/butter/blog/</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://discuss.popcorntime.io/</loc>
+  <loc>https://butterproject.github.com/butter/discuss/</loc>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ci.popcorntime.io/</loc>
+  <loc>https://butterproject.github.com/butter/ci/</loc>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://popcorntime.io/tos</loc>
+  <loc>https://butterproject.github.com/butter/tos</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://popcorntime.io/faq</loc>
+  <loc>https://butterproject.github.com/butter/faq</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://status.popcorntime.io/</loc>
+  <loc>http://butterproject.github.com/butter/status/</loc>
   <changefreq>always</changefreq>
   <priority>0.50</priority>
 </url>
