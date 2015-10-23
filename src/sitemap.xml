@@ -25,12 +25,12 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.com/butter/tos</loc>
+  <loc>https://butterproject.github.com/tos.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.com/butter/faq</loc>
+  <loc>https://butterproject.github.com/faq.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
