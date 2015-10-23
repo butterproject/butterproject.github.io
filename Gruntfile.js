@@ -18,6 +18,7 @@ module.exports = function (grunt) {
         'copy:images',
         'copy:js',
         'copy:locales',
+        'copy:butter',
         'render:dev',
         'copy:misc'
     ]);
@@ -37,6 +38,7 @@ module.exports = function (grunt) {
         'copy:favicon',
         'copy:fonts',
         'copy:locales',
+        'copy:butter',
         'copy:misc'
     ]);
 
@@ -190,6 +192,12 @@ module.exports = function (grunt) {
                 expand: true,
                 cwd: 'src/',
                 src: 'locales/*/*',
+                dest: 'compiled/'
+            },
+            butter: {
+                expand: true,
+                cwd: 'src/',
+                src: 'butter/*/*',
                 dest: 'compiled/'
             }
         },
