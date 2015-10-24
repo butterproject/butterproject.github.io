@@ -287,9 +287,14 @@ body {
   color: #6e6e6e;
 }
 section {
-  width: 80%;
+  width: 100%;
   margin: auto;
   max-width: 100%;
+}
+
+section-text {
+  width: 80%;
+  margin: auto;
 }
 .container {
   background: #fff;
