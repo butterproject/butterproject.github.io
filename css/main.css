@@ -1008,6 +1008,7 @@ span.code {
   opacity: 0.3;
   transition: opacity 0.2s ease;
   margin-top: 21px;
+  padding-top: 6px;
 }
 #footer .logo:hover {
   opacity: 0.9;
