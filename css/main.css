@@ -287,7 +287,8 @@ body {
   color: #6e6e6e;
 }
 section {
-  width: 100%;
+  width: 80%;
+  margin: auto;
   max-width: 100%;
 }
 .container {
@@ -365,6 +366,9 @@ span.code {
 }
 @media screen and (max-width: 500px) {
   .width-50 {
+    width: 100%;
+  }
+  .post-content {
     width: 100%;
   }
 }
@@ -729,7 +733,10 @@ span.code {
   font-size: 14px;
   font-family: 'Montserrat';
   font-weight: normal;
-  color: #adb08a;
+  color: #adb08a
+}
+.warning .post-content p {
+  color: #000000;
 }
 .warning img {
   width: 28px;
