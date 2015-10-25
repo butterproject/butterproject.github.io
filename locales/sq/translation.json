@@ -7,7 +7,7 @@
     "header": {
         "beta": {
             "title": "Shiko filma dhe seriale menjëherë",
-            "subtitle": "Still no binaries, but we're working on that !"
+            "subtitle": "Aktualisht në Beta, por vazhdo dhe provoje!"
         }
     },
     "download": {
@@ -35,7 +35,7 @@
         },
         "catalogue": {
             "title": "Katalog i mrekullueshëm",
-            "text": "Nëse filmi apo seriali është diku, Butter do ta gjej verzionin më të mire dhe t'ua tregoj menjëherë."
+            "text": "Nëse filmi apo seriali është diku, Butter do ta gjej verzionin më të mire dhe t'ua tregoj menjëherë. "
         },
         "quality": {
             "title": "Cilësia më e mirë",
@@ -43,7 +43,7 @@
         },
         "save": {
             "title": "Ruani pak kohë për të bërë popcorn",
-            "text": "Pa kohë pritjeje apo shkarkimi. Shikim i menjëhershëm të filmave dhe serialeve tuaja të preferuara."
+            "text": "Pa kohë pritjeje apo shkarkimi. Shikim i menjëhershëm të filmave dhe serialeve tuaja të preferuara. "
         }
     },
     "how": {

@@ -7,7 +7,7 @@
     "header": {
         "beta": {
             "title": "Гледай филми и сериали незабавно",
-            "subtitle": "Still no binaries, but we're working on that !"
+            "subtitle": "В момента е в Beta версия,но ти може да се пробваш също!"
         }
     },
     "download": {
@@ -63,8 +63,6 @@
         "notified": "Бъди известен,когато има нова версия"
     },
     "footer": {
-        "love": "Made with <span>&#10084;</span> by a bunch of geeks from All Around The World",
-        "status": "Status",
         "faq": "ЧЗВ",
         "tos": "Права за ползване",
         "con": "Свържи се с нас / Относно"
