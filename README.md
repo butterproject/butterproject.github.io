@@ -1,7 +1,9 @@
 Butter Project Website
 ======================
 
-### DO NOT COMMIT DIRECT TO THE MASTER BRANCH
+### Branches
+There are 2 Branches of this Repo [Source](https://github.com/butterproject/butterproject.github.io/tree/source) and [Master](https://github.com/butterproject/butterproject.github.io/tree/master)
+The Reason behind this is so that we can fully develop the site and make changes and test these changes via the source branch and find errors before the site is made live via the master branch
 
 ### Setup for production
 Setting up the website for production is easy
