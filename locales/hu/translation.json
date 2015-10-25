@@ -7,18 +7,18 @@
     "header": {
         "beta": {
             "title": "Nézzen Filmeket és TV műsorokat azonnal",
-            "subtitle": "Jelenleg béta állapotú, de menjen és próbálja ki!"
+            "subtitle": "Still no binaries, but we're working on that !"
         }
     },
     "download": {
-        "text": "Béta letőltése %s",
+        "text": "Béta letöltése %s",
         "mac": "Mac OSX 10.7 és újabb",
         "windows": "Windows 7 és újabb",
         "linux32": "32-bit Linux",
         "linux64": "64-bit Linux",
         "android": "Android 4.0.3 és újabb",
         "platforms": "Egyéb platformok",
-        "free": "A legjobb az egészben... ingyenes!"
+        "free": "A legjobb az egészben az... hogy ingyenes!"
     },
     "warning": {
         "whatitdoes": "A Butter filmeket és TV műsorokat streamel torrentekből",
@@ -43,7 +43,7 @@
         },
         "save": {
             "title": "Időt takaríthat meg popcorn készítésére",
-            "text": "Nincs várakozás vagy letőltési idő. Azonnali lejátszása a kedvenc filmjeinek és TV műsorainak."
+            "text": "Nincs várakozás vagy letöltési idő. Azonnali lejátszása a kedvenc filmjeinek és TV műsorainak."
         }
     },
     "how": {
@@ -54,13 +54,13 @@
         "play": "Kattintson a lejátszásra<br>és élvezze!"
     },
     "get-app": {
-        "new": "Egy teljesen új módja annak, ahogyan filmeket és TV-t néz",
+        "new": "Egy teljesen új módja a film és TV nézésnek",
         "butter": "Csak gondoskodjon a pattogatott kukoricáról és a többit bízza ránk."
     },
     "email": {
         "placeholder": "Email cím",
         "subscribe": "Feliratkozás",
-        "notified": "Értesítést kap, amikor egy új verzió elérhető"
+        "notified": "Kérjen értesítést mikor egy újabb verzió lesz elérhető"
     },
     "footer": {
         "love": "Szeretettel <span>&#10084;</span> készítve pár kocka által a világ minden tájáról",
