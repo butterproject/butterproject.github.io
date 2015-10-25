@@ -291,7 +291,6 @@ section {
   margin: auto;
   max-width: 100%;
 }
-
 section-text {
   width: 80%;
   margin: auto;
@@ -300,6 +299,7 @@ section-text {
   background: #fff;
   position: relative;
   z-index: 1;
+  font-family: 'Montserrat Light', sans-serif;
 }
 canvas.snow {
   position: fixed;
@@ -358,8 +358,11 @@ h5 {
   display: block;
 }
 .width-50 {
-  width: 50%;
+  width: 100%;
   text-align: center;
+}
+.post-content {
+  width: 100%;
 }
 span.code {
   font-family: "Courier";
@@ -371,9 +374,6 @@ span.code {
 }
 @media screen and (max-width: 500px) {
   .width-50 {
-    width: 100%;
-  }
-  .post-content {
     width: 100%;
   }
 }
@@ -738,10 +738,10 @@ span.code {
   font-size: 14px;
   font-family: 'Montserrat';
   font-weight: normal;
-  color: #adb08a
+  color: #adb08a;
 }
-.warning .post-content p {
-  color: #000000;
+.warning .warning .post-content p {
+  color: #000;
 }
 .warning img {
   width: 28px;
