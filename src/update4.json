@@ -2,7 +2,7 @@
         "extended": true,
         "windows": {
                 "version": "0.3.8-5",
-                "updateUrl": "https://butterproject.github.com/butter/get/_updates/0_3_8_5.win.nw",
+                "updateUrl": "https://butterproject.github.io/butter/get/_updates/0_3_8_5.win.nw",
                 "checksum": "f2a5d2751474ad07573184f1ca6907be325d8933",
                 "signature": "MCwCFHtTIl2gOwgkUHa5Ml3mEEL9WqR7AhQu9g176WYViB1LIvPUsqblmIzanw==",
                 "title": "Update NW.js",
@@ -14,7 +14,7 @@
         "linux": {
                 "x86": {
                         "version": "0.3.8-5",
-                        "updateUrl": "https://butterproject.github.com/butter/get/_updates/0_3_8_5.l32.nw",
+                        "updateUrl": "https://butterproject.github.io/butter/get/_updates/0_3_8_5.l32.nw",
                         "checksum": "b49051e5313e2aae119db36e795c31c96b3d13cd",
                         "signature": "MCwCFGVhHZYRgNO6zuDdOfh8EQcJcLNyAhRn8Rm/hngcjO3KcdgHmaXhULf2Eg==",
                         "title": "Update NW.js",
@@ -25,7 +25,7 @@
                 },
                 "x64": {
                         "version": "0.3.8-5",
-                        "updateUrl": "https://butterproject.github.com/butter/get/_updates/0_3_8_5.l64.nw",
+                        "updateUrl": "https://butterproject.github.io/butter/get/_updates/0_3_8_5.l64.nw",
                         "checksum": "704d81e6f272118930c438503415afc25eb25ca4",
                         "signature": "MCwCFGDuj21Y3mtN3b4thGgvEUy480GSAhRif3ofj8jI7P/sjSPthabpqCwmRw==",
                         "title": "Update NW.js",
@@ -37,7 +37,7 @@
         },
         "mac": {
                 "version": "0.3.8-5",
-                "updateUrl": "https://butterproject.github.com/butter/get/_updates/0_3_8_5.mac.nw",
+                "updateUrl": "https://butterproject.github.io/butter/get/_updates/0_3_8_5.mac.nw",
                 "checksum": "db73524b1d61c7db7c462177a3e18edce054025e",
                 "signature": "MCwCFELxCUZ43wr1TF40l+aC1o6vY8n9AhQ72vljyK3k8eiRBI5IY3ioJoqgaA==",
                 "title": "Update NW.js",
