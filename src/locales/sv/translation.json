@@ -7,7 +7,7 @@
     "header": {
         "beta": {
             "title": "Titta på Filmer och Serier direkt",
-            "subtitle": "För närvarande i Beta, men sätt igång och prova det!"
+            "subtitle": "Still no binaries, but we're working on that !"
         }
     },
     "download": {
@@ -16,7 +16,7 @@
         "windows": "För Windows 7 och uppåt",
         "linux32": "För 32-bitars Linux",
         "linux64": "För 64-bitars Linux",
-        "android": "För Android 4.0.3 och uppåt ",
+        "android": "För Android 4.0.3 och uppåt",
         "platforms": "Andra plattformar",
         "free": "Bäst av allt... det är gratis!"
     },
@@ -38,7 +38,7 @@
             "text": "Om filmen eller serie är ute, kommer Butter hitta den bästa versionen möjligt och börja strömma det genast."
         },
         "quality": {
-            "title": "Den bästa kvalitén ",
+            "title": "Den bästa kvalitén",
             "text": "Titta på din film eller episod direkt i HD och med undertexter. Och sedan fortsätta titta."
         },
         "save": {
