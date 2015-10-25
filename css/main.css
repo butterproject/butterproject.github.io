@@ -288,12 +288,18 @@ body {
 }
 section {
   width: 100%;
+  margin: auto;
   max-width: 100%;
+}
+section-text {
+  width: 80%;
+  margin: auto;
 }
 .container {
   background: #fff;
   position: relative;
   z-index: 1;
+  font-family: 'Montserrat Light', sans-serif;
 }
 canvas.snow {
   position: fixed;
@@ -352,8 +358,11 @@ h5 {
   display: block;
 }
 .width-50 {
-  width: 50%;
+  width: 100%;
   text-align: center;
+}
+.post-content {
+  width: 100%;
 }
 span.code {
   font-family: "Courier";
@@ -731,6 +740,9 @@ span.code {
   font-weight: normal;
   color: #adb08a;
 }
+.warning .warning .post-content p {
+  color: #000;
+}
 .warning img {
   width: 28px;
   height: 28px;
@@ -996,6 +1008,7 @@ span.code {
   opacity: 0.3;
   transition: opacity 0.2s ease;
   margin-top: 21px;
+  padding-top: 6px;
 }
 #footer .logo:hover {
   opacity: 0.9;
