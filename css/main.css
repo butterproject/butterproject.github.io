@@ -300,6 +300,7 @@ section-text {
   background: #fff;
   position: relative;
   z-index: 1;
+  font-family: 'Montserrat Light', sans-serif;
 }
 canvas.snow {
   position: fixed;
@@ -1321,4 +1322,7 @@ body.lin-64 .dl-lin-64 {
 }
 body.android .dl-android {
   display: block !important;
+}
+#project-lists {
+  list-style: none;
 }
