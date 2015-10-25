@@ -1,6 +1,8 @@
 Butter Project Website
 ======================
 
+### DO NOT COMMIT DIRECT TO THE MASTER BRANCH
+
 ### Setup for production
 Setting up the website for production is easy
   1. Run `npm install` in the root directory to pull in the build dependencies
