@@ -1,9 +1,0 @@
-[main]
-host = https://www.transifex.com
-
-[butter-site.webpage_home]
-file_filter = src/locales/<lang>/translation.json
-source_lang = en
-source_file = src/locales/en/translation.json
-type = KEYVALUEJSON
-minimum_perc = 100
