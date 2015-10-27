@@ -5,37 +5,37 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://butterproject.github.io/</loc>
+  <loc>http://butterproject.org/</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.io/butter/blog/</loc>
+  <loc>http://blog.butterproject.org/</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.io/butter/discuss/</loc>
+  <loc>http://discuss.butterproject.org/</loc>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.io/butter/ci/</loc>
+  <loc>http://ci.butterproject.org/</loc>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.io/tos.html</loc>
+  <loc>http://butterproject.org/tos.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://butterproject.github.io/faq.html</loc>
+  <loc>http://butterproject.org/faq.html</loc>
   <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://butterproject.github.io/butter/status/</loc>
+  <loc>http://status.butterproject.org/</loc>
   <changefreq>always</changefreq>
   <priority>0.50</priority>
 </url>
