@@ -748,6 +748,9 @@ span.code {
   height: 28px;
   margin-bottom: 20px;
 }
+.warning a {
+  word-wrap: break-word;
+}
 @media screen and (max-width: 980px) {
   #features article {
     -webkit-box-sizing: border-box;
@@ -794,6 +797,9 @@ span.code {
   }
   #features article img {
     max-width: 80px;
+  }
+  .post-content p {
+    padding: 5px 10px !important;
   }
 }
 #how {
