@@ -6,8 +6,8 @@
     },
     "header": {
         "beta": {
-            "title": "Ve películas y programas de televisión al instante",
-            "subtitle": "Still no binaries, but we're working on that !"
+            "title": "Mira películas y programas de televisión al instante",
+            "subtitle": "Aún no hay archivos ejecutables, pero estamos trabajando en ello!"
         }
     },
     "download": {
@@ -31,7 +31,7 @@
         },
         "restrictions": {
             "title": "Sin restricciones",
-            "text": "Ve cualquier película o programa de televisión tantas veces como quieras. Todo lo que necesitas para empezar es una conexión a Internet adecuada."
+            "text": "Mira cualquier película o programa de televisión tantas veces como quieras. Todo lo que necesitas para empezar es una conexión a Internet adecuada."
         },
         "catalogue": {
             "title": "Catálogo impresionante",
@@ -39,16 +39,16 @@
         },
         "quality": {
             "title": "La mejor calidad",
-            "text": "Ve tu película o episodio al instante en HD y con subtítulos. Y luego sigue viendo."
+            "text": "Mira tu película o episodio al instante en HD y con subtítulos. Y luego sigue viendo."
         },
         "save": {
-            "title": "Ahorra tiempo para hacer palomitas de maíz",
+            "title": "Ahorra tiempo para hacer palomitas",
             "text": "Sin esperas o tiempos de descarga. Reproducción instantánea de tus películas y programas de televisión favoritos."
         }
     },
     "how": {
         "title": "¿Difícil de creer?",
-        "subtitle": "Ve qué fácil funciona...",
+        "subtitle": "Mira qué fácil funciona...",
         "open": "Abre Butter<br>y selecciona una película o episodio",
         "select": "Selecciona la calidad<br>y subtítulos",
         "play": "¡Clic en reproducir<br>y a disfrutar!"
