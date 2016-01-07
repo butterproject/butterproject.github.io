@@ -16,7 +16,7 @@ module.exports = function (grunt) {
         'copy:favicon',
         'copy:fonts',
         'copy:images',
-        'copy:js',
+        'copy:assets',
         'copy:locales',
         'copy:butter',
         'render:dev',
@@ -176,10 +176,10 @@ module.exports = function (grunt) {
                 src: 'images/*',
                 dest: 'compiled/'
             },
-            js: {
+            assets: {
                 expand: true,
                 cwd: 'src/',
-                src: 'js/*',
+                src: 'assets/*/*',
                 dest: 'compiled/'
             },
             misc: {
