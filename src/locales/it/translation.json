@@ -1,0 +1,72 @@
+{
+    "nav": {
+        "faq": "FAQ",
+        "tos": "TOS",
+        "home": "HOME"
+    },
+    "header": {
+        "beta": {
+            "title": "Guarda Film e Programmi TV istantaneamente",
+            "subtitle": "Ancora non sono disponibili i file binari, ma ci stiamo lavorando!"
+        }
+    },
+    "download": {
+        "text": "Scarica la Beta %s",
+        "mac": "Per Mac OSX 10.7 e sucessivi",
+        "windows": "Per Window 7 e sucessivi",
+        "linux32": "Per Linux a 32-bit",
+        "linux64": "Per Linux a 64-bit",
+        "android": "Per Sistema Android 4.0.3 e successivi",
+        "platforms": "Altre piattaforme",
+        "free": "E la cosa migliore... è gratis!"
+    },
+    "warning": {
+        "whatitdoes": "Butter permette lo streaming di film e programmi TV direttamente da file torrent",
+        "copyright": "Scaricare materiale coperto da copyright potrebbe essere illegale nel tuo Stato. Utilizzalo a tuo rischio."
+    },
+    "features": {
+        "greatmovies": {
+            "title": "Bellissimi Film e Programmi TV",
+            "text": "Siamo alla ricerca costante su tutto il web dei torrent migliori dai siti più importanti."
+        },
+        "restrictions": {
+            "title": "Senza restrizioni",
+            "text": "Guarda qualsiasi film o programma TV tutte le volte che vuoi. Tutto quello che ti serve per iniziare è una connessione internet."
+        },
+        "catalogue": {
+            "title": "Grandissimo catalogo",
+            "text": "Se il film o il programma TV esiste sul web, Butter ne troverà la versione migliore e farà subito partire lo streaming."
+        },
+        "quality": {
+            "title": "La migliore qualità",
+            "text": "Guarda il tuo film o episodio immediatamente in HD e con sottotitoli. E poi continua a guardare!"
+        },
+        "save": {
+            "title": "Risparmia tempo per farti i popcorn",
+            "text": "Nessuna attesa o tempo di download. Riproduzione istantanea dei tuoi film e programmi TV preferiti."
+        }
+    },
+    "how": {
+        "title": "Impossibile crederci?",
+        "subtitle": "Guarda come funziona facilmente...",
+        "open": "Apri Butter<br>e seleziona un film o un episodio",
+        "select": "Seleziona la qualità<br> e i sottotitoli",
+        "play": "Premi Play<br>\ne divertiti!"
+    },
+    "get-app": {
+        "new": "Un modo tutto nuovo di guardare Film e TV",
+        "butter": "Occupatevi solo dei popcorn e lasciate il resto a noi"
+    },
+    "email": {
+        "placeholder": "Indirizzo email",
+        "subscribe": "Iscriviti",
+        "notified": "Ricevi una notifica quando una nuova versione è disponibile"
+    },
+    "footer": {
+        "love": "Fatto con <span>&#10084;</span> da un gruppo di smanettoni provenienti da tutto il mondo",
+        "status": "Stato",
+        "faq": "FAQ",
+        "tos": "Termini di Servizio",
+        "con": "Contattaci / Info"
+    }
+}

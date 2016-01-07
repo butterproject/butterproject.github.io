@@ -1,0 +1,72 @@
+{
+    "nav": {
+        "faq": "FAQ",
+        "tos": "TOS",
+        "home": "HEM"
+    },
+    "header": {
+        "beta": {
+            "title": "Titta på Filmer och Serier direkt",
+            "subtitle": "Still no binaries, but we're working on that !"
+        }
+    },
+    "download": {
+        "text": "Ladda ner Beta %s",
+        "mac": "För Mac OSX 10.7 och högre",
+        "windows": "För Windows 7 och uppåt",
+        "linux32": "För 32-bitars Linux",
+        "linux64": "För 64-bitars Linux",
+        "android": "För Android 4.0.3 och uppåt",
+        "platforms": "Andra plattformar",
+        "free": "Bäst av allt... det är gratis!"
+    },
+    "warning": {
+        "whatitdoes": "Butter strömmar filmer och serier från torrents",
+        "copyright": "Nedladdning av upphovsrättsskyddat material kan vara olagligt i ditt land. Använd på egen risk."
+    },
+    "features": {
+        "greatmovies": {
+            "title": "Stora Filmer och Serier",
+            "text": "Vi söker ständigt över hela nätet efter de bästa torrents ifrån de viktigaste sidorna."
+        },
+        "restrictions": {
+            "title": "Inga begränsningar",
+            "text": "Titta på vilken film eller serier så många gånger du vill. Allt du behöver för att komma igång är en bra internetuppkoppling."
+        },
+        "catalogue": {
+            "title": "Toppen katalog",
+            "text": "Om filmen eller serie är ute, kommer Butter hitta den bästa versionen möjligt och börja strömma det genast."
+        },
+        "quality": {
+            "title": "Den bästa kvalitén",
+            "text": "Titta på din film eller episod direkt i HD och med undertexter. Och sedan fortsätta titta."
+        },
+        "save": {
+            "title": "Spara tid för att göra popcorn",
+            "text": "Ingen väntetid eller tid för nedladdning. Omedelbar uppspelning av dina favoritfilmer och tv-program."
+        }
+    },
+    "how": {
+        "title": "Svårt att tro?",
+        "subtitle": "Se hur lätt det fungerar...",
+        "open": "Öppna Butter<br>och välj en film eller serier",
+        "select": "Välj kvalite<br>och textning",
+        "play": "Klicka på play<br>och njut!"
+    },
+    "get-app": {
+        "new": "Ett helt nytt sätt att se på filmer och serier",
+        "butter": "Du behöver bara ordna popcorn, vi fixar resten."
+    },
+    "email": {
+        "placeholder": "E-postadress",
+        "subscribe": "Prenumerera",
+        "notified": "Få notifikation när en ny version är tillgänglig"
+    },
+    "footer": {
+        "love": "Skapat med <span>&#10084;</span> och av ett gäng nördar från hela världen",
+        "status": "Status",
+        "faq": "FAQ",
+        "tos": "Användarvillkor",
+        "con": "Kontakta oss / Om"
+    }
+}
