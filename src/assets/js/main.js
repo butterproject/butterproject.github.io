@@ -9,6 +9,17 @@ var butter = {
 	        $(".download .btn-main.icon-android").html(i18n.t("download.text", {postProcess: 'sprintf', sprintf: [android_version]}));
         });
     },
+    headroom: function() {
+	$(".headroom").headroom({
+		"tolerance": 20,
+		"offset": 50,
+		"classes": {
+			"initial": "animated",
+			"pinned": "slideDown",
+			"unpinned": "slideUp"
+		}
+	});
+    },
     polyfill: function() {
         var vendors = ['ms', 'moz', 'webkit', 'o'];
         for(var i = 0; i < vendors.length && !window.requestAnimationFrame; i++) {
@@ -69,6 +80,7 @@ var butter = {
 };
 
 butter.initialize();
+butter.headroom();
 butter.getAndroidVersion();
 butter.updateDownloads(navigator.platform, navigator.userAgent);
 butter.updateStatus('#status', 'https://butterproject.statuspage.io/api/v1/status.json');
