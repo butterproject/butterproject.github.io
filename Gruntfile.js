@@ -101,7 +101,7 @@ module.exports = function (grunt) {
         cssmin: {
             compile: {
                 files: {
-                    'compiled/css/main.min.css': 'compiled/css/main.css'
+                    'compiled/assets/css/main.min.css': 'compiled/css/main.css'
                 }
             }
         },
@@ -109,7 +109,7 @@ module.exports = function (grunt) {
         uglify: {
             compile: {
                 files: {
-                    'compiled/js/main.min.js': 'src/js/main.js'
+                    'compiled/assets/js/main.min.js': 'src/js/main.js'
                 }
             }
         },
