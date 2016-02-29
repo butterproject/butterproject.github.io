@@ -180,9 +180,18 @@ img.pull-left {
     width: 340px;
     margin: 0 auto;
 }
+
 /* Main content block */
 
 .maincontent {}
+p, h1, h2, h3, h4 {
+    cursor: default;
+}
+#faq p,
+#vision p {
+    text-align: justify;
+}
+
 /* Sidebars */
 
 .sidebar {
@@ -274,7 +283,4 @@ img.pull-left {
 }
 .grow:hover h4 i {
     transform: scale(1.15);
-}
-p, h1, h2, h3, h4 {
-    cursor: default;
 }
