@@ -268,3 +268,13 @@ img.pull-left {
 .widget-simplenav a {
     margin: 0 5px;
 }
+.grow h4 i {
+    cursor: default;
+    transition: all .5s;
+}
+.grow:hover h4 i {
+    transform: scale(1.15);
+}
+p, h1, h2, h3, h4 {
+    cursor: default;
+}
