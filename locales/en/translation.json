@@ -7,7 +7,7 @@
     "header": {
         "beta": {
             "title": "Watch Movies and TV Shows instantly",
-            "subtitle": "Still no binaries, but we're working on that !"
+            "subtitle": "Still no binaries, but we're working on that!"
         }
     },
     "download": {
@@ -22,7 +22,7 @@
     },
     "warning": {
         "whatitdoes": "Butter streams movies and TV shows from torrents",
-        "copyright": "Butter will never stream any copyrighted material ! not even slightly tainted one !"
+        "copyright": "Butter will never stream any copyrighted material, not even slightly tainted!"
     },
     "features": {
         "greatmovies": {
