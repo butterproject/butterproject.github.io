@@ -187,8 +187,7 @@ img.pull-left {
 p, h1, h2, h3, h4 {
     cursor: default;
 }
-#faq p,
-#vision p {
+#faq p {
     text-align: justify;
 }
 
