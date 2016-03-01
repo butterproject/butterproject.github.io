@@ -187,8 +187,12 @@ img.pull-left {
 p, h1, h2, h3, h4 {
     cursor: default;
 }
-#faq p {
+#faq p,
+#vision p {
     text-align: justify;
+}
+#vision p {
+    font-size: .95em;
 }
 
 /* Sidebars */
