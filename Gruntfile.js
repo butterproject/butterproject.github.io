@@ -245,8 +245,8 @@ module.exports = function (grunt) {
         watch: {
             css: {
                 spawn: false,
-                files: ['src/stylus/*'],
-                tasks: ['stylus']
+                files: ['src/assets/css/*', 'src/stylus/*'],
+                tasks: ['default']
             },
             js: {
                 files: ['src/js/*'],
@@ -261,8 +261,8 @@ module.exports = function (grunt) {
                 tasks: ['render:dev']
             },
             templates: {
-                files: ['src/templates/*'],
-                tasks: ['render:dev']
+                files: ['src/templates/**/*.ejs'],
+                tasks: ['default']
             }
         }
     });
