@@ -195,6 +195,20 @@ p, h1, h2, h3, h4 {
     font-size: .95em;
 }
 
+.v-fact {
+    float: left;
+    text-align: justify;
+}
+.v-counterfact {
+    float: left;
+    margin-top: 5px;
+    font-style: italic;
+    color: #444;
+    text-align: justify;
+    width: 94%;
+    margin-left: 3%;
+}
+
 /* Sidebars */
 
 .sidebar {
