@@ -11,8 +11,8 @@ var butter = {
     },
     headroom: function() {
 	$(".headroom").headroom({
-		"tolerance": 20,
-		"offset": 50,
+		"tolerance": 8,
+		"offset": 10,
 		"classes": {
 			"initial": "animated",
 			"pinned": "slideDown",

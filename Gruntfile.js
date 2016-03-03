@@ -249,8 +249,8 @@ module.exports = function (grunt) {
                 tasks: ['default']
             },
             js: {
-                files: ['src/js/*'],
-                tasks: ['copy:js']
+                files: ['src/js/*', 'src/assets/js/*'],
+                tasks: ['default']
             },
             images: {
                 files: ['src/images/*'],
