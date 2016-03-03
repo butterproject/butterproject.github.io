@@ -184,7 +184,7 @@ img.pull-left {
 /* Main content block */
 
 .maincontent {}
-p, h1, h2, h3, h4 {
+span, p, h1, h2, h3, h4 {
     cursor: default;
 }
 #faq p,
