@@ -1,1 +1,1 @@
-git pull --rebase && grunt && (cd complied && git commit -asm "update `date`" && git push -f)
+git pull --rebase && grunt && (cd compiled && git commit -asm "update `date`" && git push -f)
