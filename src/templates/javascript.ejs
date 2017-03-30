@@ -4,7 +4,22 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/i18next/1.6.3/i18next-1.6.3.min.js" type="text/javascript"></script>
 	<script src="assets/js/headroom.min.js"></script>
 	<script src="assets/js/jQuery.headroom.min.js"></script>
-
+	<script>
+		$(function() {
+		  $('a[href*="#"]:not([href="#"])').click(function() {
+		    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		      var target = $(this.hash);
+		      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		      if (target.length) {
+		        $('html, body').animate({
+		          scrollTop: target.offset().top
+		        }, 1000);
+		        return false;
+		      }
+		    }
+		  });
+		});
+	</script>
         <script type="text/javascript" src="assets/js/main<% if(!data.dev) { %>.min<% } %>.js"></script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJLSWH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
