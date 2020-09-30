@@ -1,6 +1,6 @@
 # Butter website
 
-### Get started:
+### Getting started:
 
 ```
 npm install
@@ -8,7 +8,7 @@ grunt
 grunt dev
 ```
 
-### The GNU GENERAL PUBLIC LICENSE (GPL)
+### GNU GENERAL PUBLIC LICENSE (GPL)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
