@@ -1,4 +1,4 @@
-# Butter website
+# An Amazing Butter Website
 
 ### Get started:
 
