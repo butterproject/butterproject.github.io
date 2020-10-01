@@ -1,4 +1,4 @@
-# Butter website
+# Butter website- by programmers for programmers
 
 ### Get started:
 
