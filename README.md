@@ -1,4 +1,5 @@
 # Butter website
+This Buteer Website tells about GPL
 
 ### Get started:
 
