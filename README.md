@@ -1,4 +1,4 @@
-# Butter website
+# Butter website (an amazing project)
 
 ### Get started:
 
