@@ -1,6 +1,6 @@
 # Butter website
 
-### Get started:
+### GET STARTED :
 
 ```
 npm install
