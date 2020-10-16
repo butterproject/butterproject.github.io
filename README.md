@@ -1,4 +1,4 @@
-# Butter website
+# Fresh Butter website
 
 ### Get started:
 
