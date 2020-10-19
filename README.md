@@ -3,14 +3,16 @@
 ### Get started:
 
 ```
-npm install
+pkg install git
+git clone https://github.com/adityanigam1/Nethunter-In-Termux-1/pull/1#issue-504120240
+npm install nodejs
 grunt
 grunt dev
 ```
 
 ### The GNU GENERAL PUBLIC LICENSE (GPL)
 
-    This program is free software: you can redistribute it and/or modify
+    This i am Adityaa Nigam I want to Win github program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
@@ -21,4 +23,4 @@ grunt dev
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see http://www.gnu.org/licenses/
+    along with this program.  If code doe sworknot,  see http://www.gnu.org/licenses/
